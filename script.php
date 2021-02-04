@@ -1,5 +1,4 @@
 <?php
-$couleur = $_POST["color"];
 session_start();
 ?>
 <!doctype html>
